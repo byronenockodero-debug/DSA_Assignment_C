@@ -1,3 +1,10 @@
+// 7.	Write C function to perform the following operations on double ended queue [10]
+// a.	Front insertion
+// b.	Rear insertion
+// c.	Front deletion
+// d.	Rear deletion
+
+
 #include <stdio.h>
 #define SIZE 5
 
