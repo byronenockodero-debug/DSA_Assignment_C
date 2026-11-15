@@ -1,3 +1,6 @@
+#1.	Discuss the disadvantages of linear queue. 
+#Illustrate the implementation of circular queue using C, C++ or Python. [6]
+
 #include <stdio.h>
 #define MAX 5
 
