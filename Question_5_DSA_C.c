@@ -1,3 +1,5 @@
+// 5.	Write a program to perform enqueuer and dequeuer in a Queue [8]
+
 #include <stdio.h>
 #define SIZE 5
 
