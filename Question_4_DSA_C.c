@@ -1,3 +1,9 @@
+// 4.	Write a recursive program:
+// a.	To find the sum of first N natural numbers [5]
+// b.	To find the factorial of a number [5]
+// c.	To find the Nth term of a Fibonacci series [5]
+// d.	To generate N terms of a Fibonacci series [5]
+
 #include <stdio.h>
 
 // a. Sum of first N natural numbers
