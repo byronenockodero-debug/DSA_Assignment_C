@@ -1,3 +1,4 @@
+// 6.	Write a program to represent a sparse using arrays [6]
 #include <stdio.h>
 #define MAX 100
 
